@@ -1,8 +1,8 @@
 
 ### :woman_technologist: About Me :
-I am a Competitive Programmer from Uzbekistan.
-I am 17 years old.
-Member of National IOI team of Uzbekistan.
+I am a Competitive Programmer from Uzbekistan.<br>
+I am 17 years old.<br>
+Member of National IOI team of Uzbekistan.<br>
 
 ---
 
