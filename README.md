@@ -27,5 +27,9 @@ Member of National IOI team of Uzbekistan.<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Giyhub"  alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<figure><embed src="https://wakatime.com/share/@rshohruh/9384f8db-bcdf-46f0-9199-cb63ff6b36b2.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@rshohruh/186a52d8-f0a6-46ef-b7ef-35b87887ab3d.svg"></embed></figure>
+
+### Stats:
+<div>
+  <figure><embed src="https://wakatime.com/share/@rshohruh/9384f8db-bcdf-46f0-9199-cb63ff6b36b2.svg"></embed></figure>
+  <figure><embed src="https://wakatime.com/share/@rshohruh/186a52d8-f0a6-46ef-b7ef-35b87887ab3d.svg"></embed></figure>
+</div>
