@@ -1,8 +1,5 @@
 
 ### About Me :
-I am a Competitive Programmer from Uzbekistan.<br>
-I am 17 years old.<br>
-Member of National IOI team of Uzbekistan.<br>
 
 ---
 
