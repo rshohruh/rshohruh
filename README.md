@@ -2,10 +2,10 @@
 ### About Me :
 
 ---
+Competitive Programmer
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rshohruh)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rshohruh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -23,10 +23,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Giyhub"  alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
-### Stats:
-<div>
-  <img src="https://wakatime.com/share/@rshohruh/9384f8db-bcdf-46f0-9199-cb63ff6b36b2.svg"></embed>
-  <img src="https://wakatime.com/share/@rshohruh/186a52d8-f0a6-46ef-b7ef-35b87887ab3d.svg"></embed>
 </div>
