@@ -1,26 +1,29 @@
+# Shohruh Rahmatillayev - Competitive Programmer
 
-### About Me :
+## About Me
 
----
-Competitive Programmer
+Hello! I'm Shohruh Rahmatillayev, a passionate competitive programmer and Django developer. I love solving algorithmic problems and have participated in numerous competitive programming contests. I'm proficient in C++ and Python and I enjoy exploring new data structures and algorithms.
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rshohruh)](https://git.io/streak-stats)<br>
+## Achievements
 
----
+- **Republican olympiad in informatics**: 3th grade
+- **IOI 2023-34**: Regional Team Member
+- **Codeforces**: Specialist (Rating: 1463)
+- **LeetCode**: Top 6% (Contest Rating: 1826)
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Giyhub"  alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+## Skills
+
+- **Languages**: C++, Python
+- **Algorithms**: Dynamic Programming, Graph Algorithms, Number Theory, String Algorithms
+- **Data Structures**: Segment Trees, Fenwick Trees, Trie, Union-Find, Heavy-Light Decomposition
+
+## Projects
+
+### [Simple testcase generator](https://github.com/rshohruh/robocontest_generator)
+A collection of generator for creating testcases to [RoboContest](https://robocontest.uz/) .
+
+## Get in Touch
+
+- **Email**: rshohrux16@gmail.com
+- **LinkedIn**: [linkedin.com/in/rshohruh](https://linkedin.com/in/rshohruh)
+- **Telegram**: [t.me/rshohruh](https://t.me/rshohruh)
