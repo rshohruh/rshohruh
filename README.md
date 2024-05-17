@@ -1,29 +1,28 @@
 # Shohruh Rahmatillayev - Competitive Programmer
 
-## About Me
-
-Hello! I'm Shohruh Rahmatillayev, a passionate competitive programmer and Django developer. I love solving algorithmic problems and have participated in numerous competitive programming contests. I'm proficient in C++ and Python and I enjoy exploring new data structures and algorithms.
+Hi, I'm Shohruh Rahmatillayev, a competitive programmer and Django developer. I am passionate about solving algorithmic problems and developing efficient software solutions.
 
 ## Achievements
 
-- **Republican olympiad in informatics**: 3th grade
-- **IOI 2023-34**: Regional Team Member
-- **Codeforces**: Specialist (Rating: 1463)
-- **LeetCode**: Top 6% (Contest Rating: 1826)
+- 🥉 3rd place in the Republican Olympiad in Informatics
+- 🌟 IOI 2023-24 Regional Team Member
+- 🏆 Codeforces Specialist (Rating: 1463)
+- 🚀 LeetCode Top 6% (Rating: 1826)
 
 ## Skills
 
-- **Languages**: C++, Python
-- **Algorithms**: Dynamic Programming, Graph Algorithms, Number Theory, String Algorithms
-- **Data Structures**: Segment Trees, Fenwick Trees, Trie, Union-Find, Heavy-Light Decomposition
+- **Languages:** C++, Python
+- **Frameworks:** Django
+- **Algorithms:** Dynamic Programming, Graph Algorithms, Number Theory, String Algorithms
+- **Data Structures:** Segment Trees, Fenwick Trees, Trie, Union-Find, Heavy-Light Decomposition
 
 ## Projects
 
-### [Simple testcase generator](https://github.com/rshohruh/robocontest_generator)
-A collection of generator for creating testcases to [RoboContest](https://robocontest.uz/) .
+### [Simple Testcase Generator](https://github.com/rshohruh/robocontest_generator)
+A tool for generating test cases for competitive programming problems.
 
-## Get in Touch
+## Contact
 
-- **Email**: rshohrux16@gmail.com
-- **LinkedIn**: [linkedin.com/in/rshohruh](https://linkedin.com/in/rshohruh)
-- **Telegram**: [t.me/rshohruh](https://t.me/rshohruh)
+- **Email:** [rshohrux16@gmail.com](mailto:rshohrux16@gmail.com)
+- **LinkedIn:** [rshohruh](https://linkedin.com/in/rshohruh)
+- **Telegram:** [rshohruh](https://t.me/rshohruh)
