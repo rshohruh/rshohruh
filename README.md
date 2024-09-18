@@ -15,15 +15,10 @@ Hi, I'm Shohruh Rahmatillayev, a competitive programmer and Django developer. I 
 
 ## Skills
 
-- **Languages:** C++, Python
-- **Frameworks:** Django
+- **Languages:** C++, Python, TypeScript
+- **Frameworks:** Django, VueJs
 - **Algorithms:** Dynamic Programming, Graph Algorithms, Number Theory, String Algorithms
 - **Data Structures:** Segment Trees, Fenwick Trees, Trie, Union-Find, Heavy-Light Decomposition
-
-## Projects
-
-### [Simple Testcase Generator](https://github.com/rshohruh/robocontest_generator)
-A tool for generating test cases for competitive programming problems.
 
 ## Contact
 
