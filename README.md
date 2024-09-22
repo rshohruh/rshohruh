@@ -10,8 +10,8 @@ Hi, I'm Shohruh Rahmatillayev, a competitive programmer and Django developer. I 
 
 - 🥉 3rd place in the Republican Olympiad in Informatics
 - 🌟 IOI 2023-24 Regional Team Member
-- 🏆 Codeforces Specialist (Rating: 1463)
-- 🚀 LeetCode Top 6% (Rating: 1826)
+- 🏆 Codeforces Expert (Rating: 1600)
+- 🚀 LeetCode Top 5% (Rating: 1900)
 
 ## Skills
 
